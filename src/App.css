@@ -16,5 +16,19 @@ body {
 }
 
 .car {
-  background-color: white;
+  background-color: aqua;
+  border-radius: 5px;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 15px;
+}
+
+.off {
+  padding: 20px;
+
+  border-radius: 5px;
+  overflow: hidden;
 }
